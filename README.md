@@ -73,13 +73,12 @@ ros2 launch turtlebot3_gazebo empty_world.launch.py
 
 # 📁 專案結構 | Project Structure
 ## llm-mobile-robot-system/
-  │
-  ├── src/                  # ROS2 套件 Packages
-  ├── build/                # 建置輸出 Build artifacts
-  ├── install/              # 安裝檔 Installation
-  ├── log/                  # 系統紀錄 Logs
-  ├── README.md
-  └── .gitignore
+- src/                  # ROS2 套件 Packages
+- build/                # 建置輸出 Build artifacts
+- install/              # 安裝檔 Installation
+- log/                  # 系統紀錄 Logs
+- README.md
+- .gitignore
 
 # 🧠 系統願景 | System Vision
 ## 未來使用者可以輸入：
